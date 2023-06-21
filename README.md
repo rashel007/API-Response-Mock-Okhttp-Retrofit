@@ -4,7 +4,7 @@ Mocking API response in okhttp using Interceptor
 ## To Enable mocking any API in our project we have to follow below steps
 
 
-1. Add a json file in res/raw folder (quotes.json)
+1. Add a json file in res/raw folder (quotes.json). Which will containn the mock response
 
 
    ![Screenshot](mock-file2.png)
